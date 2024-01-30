@@ -1,0 +1,13 @@
+/* styles.css */
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+ */
+
+
+.nav-link.active {
+    text-decoration: underline; /* Add your preferred styling here */
+    font-weight: bold; /* You can also adjust other styles like font-weight */
+    /* Add any other styles you want for the active link */
+  }
+   
